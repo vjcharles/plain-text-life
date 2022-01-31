@@ -20,7 +20,7 @@ readable by any computer and thus never become inaccessible.
 # How to use it
 
 1. Create a folder `Life` somewhere on your computer (Tip: you can also
-  place this folder in a cloud folder, like Google Drive or Dropbox, to have
+  place this folder in a cloud folder, like [SyncThing](https://syncthing.net), Google Drive or Dropbox, to have
   it synced across devices).
 2. Each day in the morning, after having set your coffee but before having
 done any serious work, create a copy of `today.txt` and use today's date as
@@ -81,7 +81,7 @@ belows:
 # Working with your plain text files
 
 Start a software that indexes all your plain text files. On Linux I recommend
-[Recoll](http://www.lesbonscomptes.com/recoll/download.html#general). Search for
+[Recoll](https://www.lesbonscomptes.com/recoll). Search for
 keywords or tags that you remember and quickly find the right file you were
 looking for.
 
